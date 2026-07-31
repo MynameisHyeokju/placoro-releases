@@ -1,8 +1,8 @@
 {
-  "versionCode": 7,
-  "versionName": "0.1.7",
-  "notesKo": "기술 카드에 기술 타입과 필요한 주사위 수를 표시합니다. 앱 실행 및 설정 화면에서 업데이트를 확인하고 설치할 수 있습니다.",
-  "notesJa": "技カードに技のタイプと必要なサイコロ数を表示します。アプリ起動時と設定画面からアップデートを確認してインストールできます。",
-  "apkUrl": "https://github.com/MynameisHyeokju/placoro-releases/releases/download/v0.1.7/app-debug.apk",
-  "sha256": "CF2BEF339B99385ADB4F23B08A25D84508D917A109104D36B421591E7F4C1112"
+  "versionCode": 8,
+  "versionName": "0.1.8",
+  "notesKo": "기술명 오른쪽에 아이콘과 타입명이 포함된 타입 배지를 표시하고, 필요한 주사위를 별도 영역으로 분리했습니다.",
+  "notesJa": "技名の右側にアイコンとタイプ名を含むバッジを表示し、必要なサイコロを別の領域に分けました。",
+  "apkUrl": "https://github.com/MynameisHyeokju/placoro-releases/releases/download/v0.1.8/app-debug.apk",
+  "sha256": "A3CEFC0B04860BECBA51513B1A446EBBB6FCE292DC12FCE2A836A548782F3906"
 }

@@ -1,8 +1,8 @@
 {
-  "versionCode": 10,
-  "versionName": "0.1.10",
-  "notesKo": "업데이트 매니페스트 캐시를 우회하여 새 버전을 즉시 확인하도록 수정했습니다. v0.1.9의 대전 타입 표시 및 한국어 타입명 변경도 포함합니다.",
-  "notesJa": "アップデート情報のキャッシュを回避し、新しいバージョンをすぐ確認できるよう修正しました。",
-  "apkUrl": "https://github.com/MynameisHyeokju/placoro-releases/releases/download/v0.1.10/app-debug.apk",
-  "sha256": "66CB3ACCBE16E7E0049069860BBBF1FFCA5BBFE733A2F63AAD8156C4BA45800D"
+  "versionCode": 11,
+  "versionName": "0.1.11",
+  "notesKo": "포켓몬 12종 이미지를 사용자가 제공한 캐라코로 투명 배경 렌더로 교체했습니다.",
+  "notesJa": "12種類のポケモン画像を、提供されたキャラコロの透過レンダーに変更しました。",
+  "apkUrl": "https://github.com/MynameisHyeokju/placoro-releases/releases/download/v0.1.11/app-debug.apk",
+  "sha256": "9593CD59CB093004EC63D9DAF7A5854E13BE30487C8ACF0F5C31AF88DD228FEF"
 }

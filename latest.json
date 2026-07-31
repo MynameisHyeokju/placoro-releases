@@ -1,8 +1,8 @@
 {
-  "versionCode": 9,
-  "versionName": "0.1.9",
-  "notesKo": "대전 화면에서 포켓몬 자체 타입 표시를 제거하고 약점과 HP에 집중하도록 정리했습니다. 한국어 타입명을 전기와 에스퍼로 수정했습니다.",
-  "notesJa": "バトル画面からポケモン自身のタイプ表示を削除し、弱点とHPに集中できるよう整理しました。",
-  "apkUrl": "https://github.com/MynameisHyeokju/placoro-releases/releases/download/v0.1.9/app-debug.apk",
-  "sha256": "B40DF7B249EAE72370BAAE1CB67DEA0F0675299128CCA443AE9DF8501FF94E80"
+  "versionCode": 10,
+  "versionName": "0.1.10",
+  "notesKo": "업데이트 매니페스트 캐시를 우회하여 새 버전을 즉시 확인하도록 수정했습니다. v0.1.9의 대전 타입 표시 및 한국어 타입명 변경도 포함합니다.",
+  "notesJa": "アップデート情報のキャッシュを回避し、新しいバージョンをすぐ確認できるよう修正しました。",
+  "apkUrl": "https://github.com/MynameisHyeokju/placoro-releases/releases/download/v0.1.10/app-debug.apk",
+  "sha256": "66CB3ACCBE16E7E0049069860BBBF1FFCA5BBFE733A2F63AAD8156C4BA45800D"
 }

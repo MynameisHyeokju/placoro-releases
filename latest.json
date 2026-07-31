@@ -1,8 +1,8 @@
 {
-  "versionCode": 8,
-  "versionName": "0.1.8",
-  "notesKo": "기술명 오른쪽에 아이콘과 타입명이 포함된 타입 배지를 표시하고, 필요한 주사위를 별도 영역으로 분리했습니다.",
-  "notesJa": "技名の右側にアイコンとタイプ名を含むバッジを表示し、必要なサイコロを別の領域に分けました。",
-  "apkUrl": "https://github.com/MynameisHyeokju/placoro-releases/releases/download/v0.1.8/app-debug.apk",
-  "sha256": "A3CEFC0B04860BECBA51513B1A446EBBB6FCE292DC12FCE2A836A548782F3906"
+  "versionCode": 9,
+  "versionName": "0.1.9",
+  "notesKo": "대전 화면에서 포켓몬 자체 타입 표시를 제거하고 약점과 HP에 집중하도록 정리했습니다. 한국어 타입명을 전기와 에스퍼로 수정했습니다.",
+  "notesJa": "バトル画面からポケモン自身のタイプ表示を削除し、弱点とHPに集中できるよう整理しました。",
+  "apkUrl": "https://github.com/MynameisHyeokju/placoro-releases/releases/download/v0.1.9/app-debug.apk",
+  "sha256": "B40DF7B249EAE72370BAAE1CB67DEA0F0675299128CCA443AE9DF8501FF94E80"
 }
